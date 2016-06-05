@@ -1,0 +1,14 @@
+layout_spectrum: 0.3980547874234617
+typography_spectrum: 0.8314725279342383
+color:
+  brandStrength: 0.4536511639598757
+  lightness: 0.4264444033615291
+  saturation: 0.7907332037575543
+  rhythmicContrast: 0.9018396770115942
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: severe machinery
